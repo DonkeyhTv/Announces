@@ -1,0 +1,32 @@
+{
+    "greeting": "Bienvenido a <1>{{nickname}}</1> !",
+    "dashboard": {
+         "loading": "Cargando...",
+         "error": "Error:",
+         "dashboard": "Tablero de control",
+         "account-settings": "Configuración de la cuenta",
+         "my-ads": "Mis anuncios",
+         "my-credits": "Mis créditos",
+         "messages": "Mensajes",
+         "to-the-site": "Ir al sitio",
+         "users": "Usuarios",
+         "announces": "Anuncios",
+         "dashboard-home": "Inicio del Tablero",
+         "personal-space": "Espacio personal",
+         "create-ad": "Crear anuncio",
+         "credits": "Créditos"
+    },
+    "create-ad": {
+          "profile": "Perfil",
+          "physical": "Físico",
+          "location": "Ubicación",
+          "schedules": "Horarios",
+          "opportunities": "Posibilidades",
+          "pictures": "Fotos",
+          "contact": "Contacto",
+          "announcement": "Anuncio",
+          "previous": "Anterior",
+          "next": "Siguiente",
+          "post-ad": "Publicar anuncio"
+     }
+}

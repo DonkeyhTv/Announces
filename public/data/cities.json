@@ -1,0 +1,1750 @@
+[
+  {
+    "province": "Hainaut",
+    "cities": [
+      {
+        "city_fr": "Anderlues",
+        "city_nl": "Anderlues",
+        "postal_code": "6150",
+        "latitude": 50.4005,
+        "longitude": 4.2733
+      },
+      {
+        "city_fr": "Antoing",
+        "city_nl": "Antoing",
+        "postal_code": "7640",
+        "latitude": 50.5612,
+        "longitude": 3.4496
+      },
+      {
+        "city_fr": "Ath",
+        "city_nl": "Aat",
+        "postal_code": "7800",
+        "latitude": 50.6293,
+        "longitude": 3.7786
+      },
+      {
+        "city_fr": "Beaumont",
+        "city_nl": "Beaumont",
+        "postal_code": "6500",
+        "latitude": 50.2373,
+        "longitude": 4.2343
+      },
+      {
+        "city_fr": "Belœil",
+        "city_nl": "Belœil",
+        "postal_code": "7970",
+        "latitude": 50.5535,
+        "longitude": 3.7332
+      },
+      {
+        "city_fr": "Bernissart",
+        "city_nl": "Bernissart",
+        "postal_code": "7320",
+        "latitude": 50.4895,
+        "longitude": 3.6356
+      },
+      {
+        "city_fr": "Binche",
+        "city_nl": "Binche",
+        "postal_code": "7130",
+        "latitude": 50.4118,
+        "longitude": 4.165
+      },
+      {
+        "city_fr": "Boussu",
+        "city_nl": "Boussu",
+        "postal_code": "7300",
+        "latitude": 50.4397,
+        "longitude": 3.8054
+      },
+      {
+        "city_fr": "Brugelette",
+        "city_nl": "Brugelette",
+        "postal_code": "7940",
+        "latitude": 50.5849,
+        "longitude": 3.8437
+      },
+      {
+        "city_fr": "Brunehaut",
+        "city_nl": "Brunehaut",
+        "postal_code": "7620",
+        "latitude": 50.5053,
+        "longitude": 3.4085
+      },
+      {
+        "city_fr": "Celles",
+        "city_nl": "Celles",
+        "postal_code": "7760",
+        "latitude": 50.6951,
+        "longitude": 3.4543
+      },
+      {
+        "city_fr": "Chapelle-lez-Herlaimont",
+        "city_nl": "Chapelle-lez-Herlaimont",
+        "postal_code": "7160",
+        "latitude": 50.4742,
+        "longitude": 4.2897
+      },
+      {
+        "city_fr": "Charleroi",
+        "city_nl": "Charleroi",
+        "postal_code": "6000",
+        "latitude": 50.4114,
+        "longitude": 4.4447
+      },
+      {
+        "city_fr": "Châtelet",
+        "city_nl": "Châtelet",
+        "postal_code": "6200",
+        "latitude": 50.4116,
+        "longitude": 4.5283
+      },
+      {
+        "city_fr": "Chièvres",
+        "city_nl": "Chièvres",
+        "postal_code": "7950",
+        "latitude": 50.5896,
+        "longitude": 3.8025
+      },
+      {
+        "city_fr": "Chimay",
+        "city_nl": "Chimay",
+        "postal_code": "6460",
+        "latitude": 50.0472,
+        "longitude": 4.3177
+      },
+      {
+        "city_fr": "Colfontaine",
+        "city_nl": "Colfontaine",
+        "postal_code": "7340",
+        "latitude": 50.4129,
+        "longitude": 3.8593
+      },
+      {
+        "city_fr": "Comines-Warneton",
+        "city_nl": "Komen-Waasten",
+        "postal_code": "7780",
+        "latitude": 50.7646,
+        "longitude": 2.9869
+      },
+      {
+        "city_fr": "Courcelles",
+        "city_nl": "Kurtsele",
+        "postal_code": "6180",
+        "latitude": 50.4661,
+        "longitude": 4.3806
+      },
+      {
+        "city_fr": "Dour",
+        "city_nl": "Dour",
+        "postal_code": "7370",
+        "latitude": 50.3983,
+        "longitude": 3.7807
+      },
+      {
+        "city_fr": "Écaussinnes",
+        "city_nl": "Écaussinnes",
+        "postal_code": "7190",
+        "latitude": 50.5615,
+        "longitude": 4.1557
+      },
+      {
+        "city_fr": "Ellezelles",
+        "city_nl": "Elzele",
+        "postal_code": "7890",
+        "latitude": 50.7284,
+        "longitude": 3.6734
+      },
+      {
+        "city_fr": "Enghien",
+        "city_nl": "Edingen",
+        "postal_code": "7850",
+        "latitude": 50.6876,
+        "longitude": 4.0421
+      },
+      {
+        "city_fr": "Erquelinnes",
+        "city_nl": "Erquelinnes",
+        "postal_code": "6560",
+        "latitude": 50.3053,
+        "longitude": 4.1128
+      },
+      {
+        "city_fr": "Estaimpuis",
+        "city_nl": "Estampuis",
+        "postal_code": "7730",
+        "latitude": 50.6867,
+        "longitude": 3.2428
+      },
+      {
+        "city_fr": "Farciennes",
+        "city_nl": "Farciennes",
+        "postal_code": "6240",
+        "latitude": 50.4456,
+        "longitude": 4.5333
+      },
+      {
+        "city_fr": "Fleurus",
+        "city_nl": "Fleurus",
+        "postal_code": "6220",
+        "latitude": 50.4816,
+        "longitude": 4.5507
+      },
+      {
+        "city_fr": "Flobecq",
+        "city_nl": "Vloesberg",
+        "postal_code": "7880",
+        "latitude": 50.7472,
+        "longitude": 3.7215
+      },
+      {
+        "city_fr": "Fontaine-l'Évêque",
+        "city_nl": "Fontaine-l'Évêque",
+        "postal_code": "6140",
+        "latitude": 50.3997,
+        "longitude": 4.3311
+      },
+      {
+        "city_fr": "Frameries",
+        "city_nl": "Frameries",
+        "postal_code": "7080",
+        "latitude": 50.4092,
+        "longitude": 3.8547
+      },
+      {
+        "city_fr": "Frasnes-lez-Anvaing",
+        "city_nl": "Frasnes-lez-Anvaing",
+        "postal_code": "7910",
+        "latitude": 50.6666,
+        "longitude": 3.6114
+      },
+      {
+        "city_fr": "Froidchapelle",
+        "city_nl": "Froidchapelle",
+        "postal_code": "6440",
+        "latitude": 50.1483,
+        "longitude": 4.3333
+      },
+      {
+        "city_fr": "Gerpinnes",
+        "city_nl": "Gerpinnes",
+        "postal_code": "6280",
+        "latitude": 50.3431,
+        "longitude": 4.5299
+      },
+      {
+        "city_fr": "Ham-sur-Heure-Nalinnes",
+        "city_nl": "Ham-sur-Heure-Nalinnes",
+        "postal_code": "6120",
+        "latitude": 50.3183,
+        "longitude": 4.3756
+      },
+      {
+        "city_fr": "Hensies",
+        "city_nl": "Hensies",
+        "postal_code": "7350",
+        "latitude": 50.4405,
+        "longitude": 3.6449
+      },
+      {
+        "city_fr": "Honnelles",
+        "city_nl": "Honnelles",
+        "postal_code": "7387",
+        "latitude": 50.3466,
+        "longitude": 3.7148
+      },
+      {
+        "city_fr": "Jurbise",
+        "city_nl": "Jurbeke",
+        "postal_code": "7050",
+        "latitude": 50.5223,
+        "longitude": 3.9089
+      },
+      {
+        "city_fr": "La Louvière",
+        "city_nl": "La Louvière",
+        "postal_code": "7100",
+        "latitude": 50.4866,
+        "longitude": 4.1869
+      },
+      {
+        "city_fr": "Le Roeulx",
+        "city_nl": "Le Roeulx",
+        "postal_code": "7070",
+        "latitude": 50.5012,
+        "longitude": 4.1081
+      },
+      {
+        "city_fr": "Lens",
+        "city_nl": "Lens",
+        "postal_code": "7870",
+        "latitude": 50.5584,
+        "longitude": 3.9265
+      },
+      {
+        "city_fr": "Les Bons Villers",
+        "city_nl": "Les Bons Villers",
+        "postal_code": "6210",
+        "latitude": 50.5162,
+        "longitude": 4.4185
+      },
+      {
+        "city_fr": "Lessines",
+        "city_nl": "Lessen",
+        "postal_code": "7860",
+        "latitude": 50.7105,
+        "longitude": 3.8352
+      },
+      {
+        "city_fr": "Leuze-en-Hainaut",
+        "city_nl": "Leuze-en-Hainaut",
+        "postal_code": "7900",
+        "latitude": 50.5978,
+        "longitude": 3.6213
+      },
+      {
+        "city_fr": "Lobbes",
+        "city_nl": "Lobbes",
+        "postal_code": "6540",
+        "latitude": 50.3521,
+        "longitude": 4.2667
+      },
+      {
+        "city_fr": "Manage",
+        "city_nl": "Manage",
+        "postal_code": "7170",
+        "latitude": 50.5079,
+        "longitude": 4.2408
+      },
+      {
+        "city_fr": "Merbes-le-Château",
+        "city_nl": "Merbes-le-Château",
+        "postal_code": "6567",
+        "latitude": 50.2982,
+        "longitude": 4.1817
+      },
+      {
+        "city_fr": "Momignies",
+        "city_nl": "Momignies",
+        "postal_code": "6590",
+        "latitude": 49.9879,
+        "longitude": 4.1509
+      },
+      {
+        "city_fr": "Mons",
+        "city_nl": "Bergen",
+        "postal_code": "7000",
+        "latitude": 50.4542,
+        "longitude": 3.9523
+      },
+      {
+        "city_fr": "Mont-de-l'Enclus",
+        "city_nl": "Mont-de-l'Enclus",
+        "postal_code": "7750",
+        "latitude": 50.7243,
+        "longitude": 3.5274
+      },
+      {
+        "city_fr": "Montigny-le-Tilleul",
+        "city_nl": "Montigny-le-Tilleul",
+        "postal_code": "6110",
+        "latitude": 50.3698,
+        "longitude": 4.3665
+      },
+      {
+        "city_fr": "Morlanwelz",
+        "city_nl": "Morlanwelz",
+        "postal_code": "7140",
+        "latitude": 50.4592,
+        "longitude": 4.2378
+      },
+      {
+        "city_fr": "Péruwelz",
+        "city_nl": "Péruwelz",
+        "postal_code": "7600",
+        "latitude": 50.5122,
+        "longitude": 3.5939
+      },
+      {
+        "city_fr": "Pont-à-Celles",
+        "city_nl": "Pont-à-Celles",
+        "postal_code": "6230",
+        "latitude": 50.5043,
+        "longitude": 4.3816
+      },
+      {
+        "city_fr": "Quévy",
+        "city_nl": "Quévy",
+        "postal_code": "7040",
+        "latitude": 50.3547,
+        "longitude": 3.9494
+      },
+      {
+        "city_fr": "Quiévrain",
+        "city_nl": "Quiévrain",
+        "postal_code": "7380",
+        "latitude": 50.4077,
+        "longitude": 3.6718
+      },
+      {
+        "city_fr": "Rumes",
+        "city_nl": "Rumes",
+        "postal_code": "7610",
+        "latitude": 50.5656,
+        "longitude": 3.3261
+      },
+      {
+        "city_fr": "Seneffe",
+        "city_nl": "Seneffe",
+        "postal_code": "7180",
+        "latitude": 50.5283,
+        "longitude": 4.2568
+      },
+      {
+        "city_fr": "Silly",
+        "city_nl": "Opzullik",
+        "postal_code": "7830",
+        "latitude": 50.6357,
+        "longitude": 3.9277
+      },
+      {
+        "city_fr": "Thuin",
+        "city_nl": "Thuin",
+        "postal_code": "6530",
+        "latitude": 50.3393,
+        "longitude": 4.2876
+      },
+      {
+        "city_fr": "Tournai",
+        "city_nl": "Doornik",
+        "postal_code": "7500",
+        "latitude": 50.6056,
+        "longitude": 3.3896
+      }
+    ]
+  },
+
+  {
+    "province": "Brabant wallon",
+    "cities": [
+      {
+        "city_fr": "Beauvechain",
+        "city_nl": "Bevekom",
+        "postal_code": "1320",
+        "latitude": 50.7833,
+        "longitude": 4.7833
+      },
+      {
+        "city_fr": "Bierbeek",
+        "city_nl": "Bierbeek",
+        "postal_code": "3360",
+        "latitude": 50.8833,
+        "longitude": 4.75
+      },
+      {
+        "city_fr": "Braine-l'Alleud",
+        "city_nl": "Eigenbrakel",
+        "postal_code": "1420",
+        "latitude": 50.7167,
+        "longitude": 4.35
+      },
+      {
+        "city_fr": "Braine-le-Château",
+        "city_nl": "Kasteelbrakel",
+        "postal_code": "1440",
+        "latitude": 50.6833,
+        "longitude": 4.3
+      },
+      {
+        "city_fr": "Chastre",
+        "city_nl": "Chastre",
+        "postal_code": "1450",
+        "latitude": 50.6833,
+        "longitude": 4.5833
+      },
+      {
+        "city_fr": "Chaumont-Gistoux",
+        "city_nl": "Chaumont-Gistoux",
+        "postal_code": "1325",
+        "latitude": 50.75,
+        "longitude": 4.6833
+      },
+      {
+        "city_fr": "Court-Saint-Étienne",
+        "city_nl": "Sint-Stevens-Woluwe",
+        "postal_code": "1490",
+        "latitude": 50.6833,
+        "longitude": 4.5667
+      },
+      {
+        "city_fr": "Genappe",
+        "city_nl": "Genepiën",
+        "postal_code": "1470",
+        "latitude": 50.6333,
+        "longitude": 4.4
+      },
+      {
+        "city_fr": "Grez-Doiceau",
+        "city_nl": "Graven",
+        "postal_code": "1390",
+        "latitude": 50.7,
+        "longitude": 4.7333
+      },
+      {
+        "city_fr": "Hélécine",
+        "city_nl": "Heilissem",
+        "postal_code": "1357",
+        "latitude": 50.7167,
+        "longitude": 4.85
+      },
+      {
+        "city_fr": "Incourt",
+        "city_nl": "Incourt",
+        "postal_code": "1315",
+        "latitude": 50.7333,
+        "longitude": 4.6167
+      },
+      {
+        "city_fr": "Ittre",
+        "city_nl": "Itter",
+        "postal_code": "1460",
+        "latitude": 50.6333,
+        "longitude": 4.2167
+      },
+      {
+        "city_fr": "Jodoigne",
+        "city_nl": "Geldenaken",
+        "postal_code": "1370",
+        "latitude": 50.6833,
+        "longitude": 4.9167
+      },
+      {
+        "city_fr": "La Hulpe",
+        "city_nl": "Terhulpen",
+        "postal_code": "1310",
+        "latitude": 50.75,
+        "longitude": 4.4667
+      },
+      {
+        "city_fr": "Lasne",
+        "city_nl": "Lasne",
+        "postal_code": "1380",
+        "latitude": 50.6833,
+        "longitude": 4.4833
+      },
+      {
+        "city_fr": "Nivelles",
+        "city_nl": "Nijvel",
+        "postal_code": "1400",
+        "latitude": 50.6333,
+        "longitude": 4.3333
+      },
+      {
+        "city_fr": "Orp-Jauche",
+        "city_nl": "Orp-Jauche",
+        "postal_code": "1350",
+        "latitude": 50.6833,
+        "longitude": 4.9167
+      },
+      {
+        "city_fr": "Ottignies-Louvain-la-Neuve",
+        "city_nl": "Ottignies-Louvain-la-Neuve",
+        "postal_code": "1340",
+        "latitude": 50.6833,
+        "longitude": 4.5833
+      },
+      {
+        "city_fr": "Perwez",
+        "city_nl": "Perwijs",
+        "postal_code": "1360",
+        "latitude": 50.6833,
+        "longitude": 4.65
+      },
+      {
+        "city_fr": "Ramilies",
+        "city_nl": "Ramilies",
+        "postal_code": "1367",
+        "latitude": 50.7333,
+        "longitude": 4.5833
+      },
+      {
+        "city_fr": "Rebecq",
+        "city_nl": "Roosbeek",
+        "postal_code": "1430",
+        "latitude": 50.6833,
+        "longitude": 4.2167
+      },
+      {
+        "city_fr": "Rixensart",
+        "city_nl": "Rixensart",
+        "postal_code": "1330",
+        "latitude": 50.7333,
+        "longitude": 4.5167
+      },
+      {
+        "city_fr": "Tubize",
+        "city_nl": "Tubeke",
+        "postal_code": "1480",
+        "latitude": 50.6833,
+        "longitude": 4.2167
+      },
+      {
+        "city_fr": "Villiers-la-Ville",
+        "city_nl": "Villers-la-Ville",
+        "postal_code": "1495",
+        "latitude": 50.6833,
+        "longitude": 4.5333
+      },
+      {
+        "city_fr": "Walhain",
+        "city_nl": "Walhain",
+        "postal_code": "1457",
+        "latitude": 50.6833,
+        "longitude": 4.6667
+      },
+      {
+        "city_fr": "Waterloo",
+        "city_nl": "Waterloo",
+        "postal_code": "1410",
+        "latitude": 50.7167,
+        "longitude": 4.3833
+      },
+      {
+        "city_fr": "Wavre",
+        "city_nl": "Waver",
+        "postal_code": "1300",
+        "latitude": 50.7167,
+        "longitude": 4.5833
+      }
+    ]
+  },
+  {
+    "province": "Namur",
+    "cities": [
+      {
+        "city_fr": "Anhée",
+        "city_nl": "Anhée",
+        "postal_code": "5537",
+        "latitude": 50.2835,
+        "longitude": 4.8104
+      },
+      {
+        "city_fr": "Andenne",
+        "city_nl": "Andenne",
+        "postal_code": "5300",
+        "latitude": 50.5333,
+        "longitude": 5.0833
+      },
+      {
+        "city_fr": "Assesse",
+        "city_nl": "Assesse",
+        "postal_code": "5330",
+        "latitude": 50.5,
+        "longitude": 4.9333
+      },
+      {
+        "city_fr": "Beauraing",
+        "city_nl": "Beauraing",
+        "postal_code": "5570",
+        "latitude": 50.0833,
+        "longitude": 4.8167
+      },
+      {
+        "city_fr": "Bièvre",
+        "city_nl": "Bièvre",
+        "postal_code": "5555",
+        "latitude": 50.0167,
+        "longitude": 4.7667
+      },
+      {
+        "city_fr": "Ciney",
+        "city_nl": "Ciney",
+        "postal_code": "5590",
+        "latitude": 50.3,
+        "longitude": 5.0833
+      },
+      {
+        "city_fr": "Couvin",
+        "city_nl": "Couvin",
+        "postal_code": "5660",
+        "latitude": 50.0833,
+        "longitude": 4.3333
+      },
+      {
+        "city_fr": "Dinant",
+        "city_nl": "Dinant",
+        "postal_code": "5500",
+        "latitude": 50.2667,
+        "longitude": 4.9
+      },
+      {
+        "city_fr": "Doische",
+        "city_nl": "Doische",
+        "postal_code": "5680",
+        "latitude": 50.0167,
+        "longitude": 4.5833
+      },
+      {
+        "city_fr": "Eghezée",
+        "city_nl": "Eghezée",
+        "postal_code": "5310",
+        "latitude": 50.5667,
+        "longitude": 4.8167
+      },
+      {
+        "city_fr": "Fernelmont",
+        "city_nl": "Fernelmont",
+        "postal_code": "5380",
+        "latitude": 50.5833,
+        "longitude": 4.75
+      },
+      {
+        "city_fr": "Floreffe",
+        "city_nl": "Floreffe",
+        "postal_code": "5150",
+        "latitude": 50.4833,
+        "longitude": 4.6167
+      },
+      {
+        "city_fr": "Florennes",
+        "city_nl": "Florennes",
+        "postal_code": "5620",
+        "latitude": 50.35,
+        "longitude": 4.65
+      },
+      {
+        "city_fr": "Gedinne",
+        "city_nl": "Gedinne",
+        "postal_code": "5575",
+        "latitude": 49.9667,
+        "longitude": 4.8667
+      },
+      {
+        "city_fr": "Gembloux",
+        "city_nl": "Gembloers",
+        "postal_code": "5030",
+        "latitude": 50.5833,
+        "longitude": 4.7333
+      },
+      {
+        "city_fr": "Hamois",
+        "city_nl": "Hamois",
+        "postal_code": "5360",
+        "latitude": 50.4167,
+        "longitude": 4.8333
+      },
+      {
+        "city_fr": "Hastière",
+        "city_nl": "Hastière",
+        "postal_code": "5540",
+        "latitude": 50.1333,
+        "longitude": 4.7333
+      },
+      {
+        "city_fr": "Havelange",
+        "city_nl": "Havelange",
+        "postal_code": "5370",
+        "latitude": 50.3167,
+        "longitude": 4.85
+      },
+      {
+        "city_fr": "Houyet",
+        "city_nl": "Houyet",
+        "postal_code": "5560",
+        "latitude": 50.1667,
+        "longitude": 4.7333
+      },
+      {
+        "city_fr": "Jemeppe-sur-Sambre",
+        "city_nl": "Jemeppe-sur-Sambre",
+        "postal_code": "5190",
+        "latitude": 50.4667,
+        "longitude": 4.6167
+      },
+      {
+        "city_fr": "La Bruyère",
+        "city_nl": "La Bruyère",
+        "postal_code": "5080",
+        "latitude": 50.5167,
+        "longitude": 4.7167
+      },
+      {
+        "city_fr": "Mettet",
+        "city_nl": "Mettet",
+        "postal_code": "5640",
+        "latitude": 50.3333,
+        "longitude": 4.7333
+      },
+      {
+        "city_fr": "Namur",
+        "city_nl": "Namen",
+        "postal_code": "5000",
+        "latitude": 50.4667,
+        "longitude": 4.8667
+      },
+      {
+        "city_fr": "Ohey",
+        "city_nl": "Ohey",
+        "postal_code": "5350",
+        "latitude": 50.5667,
+        "longitude": 4.8
+      },
+      {
+        "city_fr": "Onhaye",
+        "city_nl": "Onhaye",
+        "postal_code": "5520",
+        "latitude": 50.0333,
+        "longitude": 4.7667
+      },
+      {
+        "city_fr": "Philippeville",
+        "city_nl": "Philippeville",
+        "postal_code": "5600",
+        "latitude": 50.0833,
+        "longitude": 4.6167
+      },
+      {
+        "city_fr": "Profondeville",
+        "city_nl": "Profondeville",
+        "postal_code": "5170",
+        "latitude": 50.45,
+        "longitude": 4.7167
+      },
+      {
+        "city_fr": "Rochefort",
+        "city_nl": "Rochefort",
+        "postal_code": "5580",
+        "latitude": 50.2333,
+        "longitude": 5.0833
+      },
+      {
+        "city_fr": "Sambreville",
+        "city_nl": "Sambreville",
+        "postal_code": "5060",
+        "latitude": 50.4667,
+        "longitude": 4.6167
+      },
+      {
+        "city_fr": "Somme-Leuze",
+        "city_nl": "Somme-Leuze",
+        "postal_code": "5377",
+        "latitude": 50.2833,
+        "longitude": 5.0333
+      },
+      {
+        "city_fr": "Vresse-sur-Semois",
+        "city_nl": "Vresse-sur-Semois",
+        "postal_code": "5550",
+        "latitude": 49.9667,
+        "longitude": 4.75
+      },
+      {
+        "city_fr": "Viroinval",
+        "city_nl": "Viroinval",
+        "postal_code": "5670",
+        "latitude": 50.0667,
+        "longitude": 4.5833
+      },
+      {
+        "city_fr": "Walcourt",
+        "city_nl": "Walcourt",
+        "postal_code": "5650",
+        "latitude": 50.2833,
+        "longitude": 4.6
+      },
+      {
+        "city_fr": "Yvoir",
+        "city_nl": "Yvoir",
+        "postal_code": "5530",
+        "latitude": 50.25,
+        "longitude": 4.8167
+      }
+    ]
+  },
+  {
+    "province": "Liège",
+    "cities": [
+      {
+        "city_fr": "Amay",
+        "city_nl": "Amay",
+        "postal_code": "4540",
+        "latitude": 50.5333,
+        "longitude": 5.2167
+      },
+      {
+        "city_fr": "Amel",
+        "city_nl": "Amel",
+        "postal_code": "4770",
+        "latitude": 50.3667,
+        "longitude": 6.1833
+      },
+      {
+        "city_fr": "Ans",
+        "city_nl": "Ans",
+        "postal_code": "4430",
+        "latitude": 50.6333,
+        "longitude": 5.4333
+      },
+      {
+        "city_fr": "Anthisnes",
+        "city_nl": "Anthisnes",
+        "postal_code": "4160",
+        "latitude": 50.5,
+        "longitude": 5.3167
+      },
+      {
+        "city_fr": "Aubel",
+        "city_nl": "Aubel",
+        "postal_code": "4880",
+        "latitude": 50.7167,
+        "longitude": 5.6833
+      },
+      {
+        "city_fr": "Awans",
+        "city_nl": "Awans",
+        "postal_code": "4340",
+        "latitude": 50.6333,
+        "longitude": 5.3167
+      },
+      {
+        "city_fr": "Aywaille",
+        "city_nl": "Aywaille",
+        "postal_code": "4920",
+        "latitude": 50.4,
+        "longitude": 5.5833
+      },
+      {
+        "city_fr": "Bassenge",
+        "city_nl": "Bassenge",
+        "postal_code": "4690",
+        "latitude": 50.7333,
+        "longitude": 5.5833
+      },
+      {
+        "city_fr": "Berloz",
+        "city_nl": "Berloz",
+        "postal_code": "4257",
+        "latitude": 50.7,
+        "longitude": 5.3833
+      },
+      {
+        "city_fr": "Beyne-Heusay",
+        "city_nl": "Beyne-Heusay",
+        "postal_code": "4610",
+        "latitude": 50.6,
+        "longitude": 5.4667
+      },
+      {
+        "city_fr": "Blegny",
+        "city_nl": "Blegny",
+        "postal_code": "4670",
+        "latitude": 50.6667,
+        "longitude": 5.6333
+      },
+      {
+        "city_fr": "Braives",
+        "city_nl": "Braives",
+        "postal_code": "4260",
+        "latitude": 50.6167,
+        "longitude": 5.0667
+      },
+      {
+        "city_fr": "Büllingen",
+        "city_nl": "Büllingen",
+        "postal_code": "4760",
+        "latitude": 50.3667,
+        "longitude": 6.2667
+      },
+      {
+        "city_fr": "Burdinne",
+        "city_nl": "Burdinne",
+        "postal_code": "4210",
+        "latitude": 50.5667,
+        "longitude": 5.3167
+      },
+      {
+        "city_fr": "Burg-Reuland",
+        "city_nl": "Burg-Reuland",
+        "postal_code": "4790",
+        "latitude": 50.1833,
+        "longitude": 6.0167
+      },
+      {
+        "city_fr": "Butgenbach",
+        "city_nl": "Butgenbach",
+        "postal_code": "4750",
+        "latitude": 50.35,
+        "longitude": 6.15
+      },
+      {
+        "city_fr": "Chaudfontaine",
+        "city_nl": "Chaudfontaine",
+        "postal_code": "4050",
+        "latitude": 50.6167,
+        "longitude": 5.6333
+      },
+      {
+        "city_fr": "Clavier",
+        "city_nl": "Clavier",
+        "postal_code": "4560",
+        "latitude": 50.4833,
+        "longitude": 5.3167
+      },
+      {
+        "city_fr": "Comblain-au-Pont",
+        "city_nl": "Comblain-au-Pont",
+        "postal_code": "4170",
+        "latitude": 50.4,
+        "longitude": 5.5167
+      },
+      {
+        "city_fr": "Crisnée",
+        "city_nl": "Crisnée",
+        "postal_code": "4360",
+        "latitude": 50.6333,
+        "longitude": 5.35
+      },
+      {
+        "city_fr": "Dalhem",
+        "city_nl": "Dalhem",
+        "postal_code": "4607",
+        "latitude": 50.65,
+        "longitude": 5.4167
+      },
+      {
+        "city_fr": "Dison",
+        "city_nl": "Dison",
+        "postal_code": "4820",
+        "latitude": 50.5667,
+        "longitude": 5.8833
+      },
+      {
+        "city_fr": "Donceel",
+        "city_nl": "Donceel",
+        "postal_code": "4357",
+        "latitude": 50.6833,
+        "longitude": 5.3667
+      },
+      {
+        "city_fr": "Engis",
+        "city_nl": "Engis",
+        "postal_code": "4480",
+        "latitude": 50.5833,
+        "longitude": 5.4167
+      },
+      {
+        "city_fr": "Esneux",
+        "city_nl": "Esneux",
+        "postal_code": "4130",
+        "latitude": 50.4333,
+        "longitude": 5.5333
+      },
+      {
+        "city_fr": "Eupen",
+        "city_nl": "Eupen",
+        "postal_code": "4700",
+        "latitude": 50.6333,
+        "longitude": 6.0167
+      },
+      {
+        "city_fr": "Faimes",
+        "city_nl": "Faimes",
+        "postal_code": "4317",
+        "latitude": 50.6167,
+        "longitude": 5.0667
+      },
+      {
+        "city_fr": "Ferrières",
+        "city_nl": "Ferrières",
+        "postal_code": "4190",
+        "latitude": 50.3667,
+        "longitude": 5.3833
+      },
+      {
+        "city_fr": "Fexhe-le-Haut-Clocher",
+        "city_nl": "Fexhe-le-Haut-Clocher",
+        "postal_code": "4347",
+        "latitude": 50.6167,
+        "longitude": 5.4167
+      },
+      {
+        "city_fr": "Flémalle",
+        "city_nl": "Flémalle",
+        "postal_code": "4400",
+        "latitude": 50.6,
+        "longitude": 5.5167
+      },
+      {
+        "city_fr": "Fléron",
+        "city_nl": "Fléron",
+        "postal_code": "4620",
+        "latitude": 50.65,
+        "longitude": 5.7667
+      },
+      {
+        "city_fr": "Geer",
+        "city_nl": "Geer",
+        "postal_code": "4250",
+        "latitude": 50.6333,
+        "longitude": 5.1833
+      },
+      {
+        "city_fr": "Grâce-Hollogne",
+        "city_nl": "Grâce-Hollogne",
+        "postal_code": "4460",
+        "latitude": 50.5667,
+        "longitude": 5.4333
+      },
+      {
+        "city_fr": "Hamoir",
+        "city_nl": "Hamoir",
+        "postal_code": "4180",
+        "latitude": 50.3667,
+        "longitude": 5.4167
+      },
+      {
+        "city_fr": "Hannut",
+        "city_nl": "Hannuit",
+        "postal_code": "4280",
+        "latitude": 50.6667,
+        "longitude": 5.0667
+      },
+      {
+        "city_fr": "Héron",
+        "city_nl": "Héron",
+        "postal_code": "4217",
+        "latitude": 50.5667,
+        "longitude": 5.3833
+      },
+      {
+        "city_fr": "Herstal",
+        "city_nl": "Herstal",
+        "postal_code": "4040",
+        "latitude": 50.6333,
+        "longitude": 5.5833
+      },
+      {
+        "city_fr": "Herve",
+        "city_nl": "Herve",
+        "postal_code": "4650",
+        "latitude": 50.65,
+        "longitude": 5.7833
+      },
+      {
+        "city_fr": "Huy",
+        "city_nl": "Hoei",
+        "postal_code": "4500",
+        "latitude": 50.5167,
+        "longitude": 5.2167
+      },
+      {
+        "city_fr": "Jalhay",
+        "city_nl": "Jalhay",
+        "postal_code": "4845",
+        "latitude": 50.45,
+        "longitude": 5.8667
+      },
+      {
+        "city_fr": "Juprelle",
+        "city_nl": "Juprelle",
+        "postal_code": "4450",
+        "latitude": 50.65,
+        "longitude": 5.5167
+      },
+      {
+        "city_fr": "Kelmis",
+        "city_nl": "Kelmis",
+        "postal_code": "4720",
+        "latitude": 50.7833,
+        "longitude": 6.0833
+      },
+      {
+        "city_fr": "Liège",
+        "city_nl": "Luik",
+        "postal_code": "4000",
+        "latitude": 50.65,
+        "longitude": 5.5833
+      },
+      {
+        "city_fr": "Lierneux",
+        "city_nl": "Lierneux",
+        "postal_code": "4990",
+        "latitude": 50.3167,
+        "longitude": 5.7667
+      },
+      {
+        "city_fr": "Limbourg",
+        "city_nl": "Limburg",
+        "postal_code": "4830",
+        "latitude": 50.6167,
+        "longitude": 5.6
+      },
+      {
+        "city_fr": "Lincent",
+        "city_nl": "Lincent",
+        "postal_code": "4287",
+        "latitude": 50.65,
+        "longitude": 5.3833
+      },
+      {
+        "city_fr": "Lontzen",
+        "city_nl": "Lontzen",
+        "postal_code": "4710",
+        "latitude": 50.7333,
+        "longitude": 6.0167
+      },
+      {
+        "city_fr": "Malmedy",
+        "city_nl": "Malmedy",
+        "postal_code": "4960",
+        "latitude": 50.3667,
+        "longitude": 6.0333
+      },
+      {
+        "city_fr": "Marchin",
+        "city_nl": "Marchin",
+        "postal_code": "4570",
+        "latitude": 50.55,
+        "longitude": 5.1667
+      },
+      {
+        "city_fr": "Modave",
+        "city_nl": "Modave",
+        "postal_code": "4577",
+        "latitude": 50.4833,
+        "longitude": 5.3167
+      },
+      {
+        "city_fr": "Nandrin",
+        "city_nl": "Nandrin",
+        "postal_code": "4550",
+        "latitude": 50.5667,
+        "longitude": 5.2833
+      },
+      {
+        "city_fr": "Neupré",
+        "city_nl": "Neupré",
+        "postal_code": "4120",
+        "latitude": 50.5667,
+        "longitude": 5.45
+      },
+      {
+        "city_fr": "Olne",
+        "city_nl": "Olne",
+        "postal_code": "4877",
+        "latitude": 50.6167,
+        "longitude": 5.6
+      },
+      {
+        "city_fr": "Oreye",
+        "city_nl": "Oreye",
+        "postal_code": "4360",
+        "latitude": 50.6167,
+        "longitude": 5.3833
+      },
+      {
+        "city_fr": "Ouffet",
+        "city_nl": "Ouffet",
+        "postal_code": "4590",
+        "latitude": 50.5167,
+        "longitude": 5.3
+      },
+      {
+        "city_fr": "Oupeye",
+        "city_nl": "Oupeye",
+        "postal_code": "4680",
+        "latitude": 50.6833,
+        "longitude": 5.6833
+      },
+      {
+        "city_fr": "Pepinster",
+        "city_nl": "Pepinster",
+        "postal_code": "4860",
+        "latitude": 50.6333,
+        "longitude": 5.7667
+      },
+      {
+        "city_fr": "Plombières",
+        "city_nl": "Plombières",
+        "postal_code": "4850",
+        "latitude": 50.7333,
+        "longitude": 5.8833
+      },
+      {
+        "city_fr": "Raeren",
+        "city_nl": "Raeren",
+        "postal_code": "4730",
+        "latitude": 50.6833,
+        "longitude": 6.0833
+      },
+      {
+        "city_fr": "Remicourt",
+        "city_nl": "Remicourt",
+        "postal_code": "4350",
+        "latitude": 50.6167,
+        "longitude": 5.2167
+      },
+      {
+        "city_fr": "Saint-Georges-sur-Meuse",
+        "city_nl": "Saint-Georges-sur-Meuse",
+        "postal_code": "4470",
+        "latitude": 50.65,
+        "longitude": 5.45
+      },
+      {
+        "city_fr": "Saint-Nicolas",
+        "city_nl": "Saint-Nicolas",
+        "postal_code": "4420",
+        "latitude": 50.65,
+        "longitude": 5.45
+      },
+      {
+        "city_fr": "Sankt Vith",
+        "city_nl": "Sankt Vith",
+        "postal_code": "4780",
+        "latitude": 50.35,
+        "longitude": 6.0167
+      },
+      {
+        "city_fr": "Seraing",
+        "city_nl": "Seraing",
+        "postal_code": "4100",
+        "latitude": 50.6333,
+        "longitude": 5.55
+      },
+      {
+        "city_fr": "Soumagne",
+        "city_nl": "Soumagne",
+        "postal_code": "4630",
+        "latitude": 50.6,
+        "longitude": 5.6667
+      },
+      {
+        "city_fr": "Spa",
+        "city_nl": "Spa",
+        "postal_code": "4900",
+        "latitude": 50.4667,
+        "longitude": 5.8833
+      },
+      {
+        "city_fr": "Sprimont",
+        "city_nl": "Sprimont",
+        "postal_code": "4140",
+        "latitude": 50.4667,
+        "longitude": 5.6333
+      },
+      {
+        "city_fr": "Stavelot",
+        "city_nl": "Stavelot",
+        "postal_code": "4970",
+        "latitude": 50.3667,
+        "longitude": 5.9333
+      },
+      {
+        "city_fr": "Stoumont",
+        "city_nl": "Stoumont",
+        "postal_code": "4987",
+        "latitude": 50.4,
+        "longitude": 5.75
+      },
+      {
+        "city_fr": "Theux",
+        "city_nl": "Theux",
+        "postal_code": "4910",
+        "latitude": 50.4667,
+        "longitude": 5.5667
+      },
+      {
+        "city_fr": "Thimister-Clermont",
+        "city_nl": "Thimister-Clermont",
+        "postal_code": "4890",
+        "latitude": 50.65,
+        "longitude": 5.95
+      },
+      {
+        "city_fr": "Trois-Ponts",
+        "city_nl": "Trois-Ponts",
+        "postal_code": "4980",
+        "latitude": 50.35,
+        "longitude": 5.8333
+      },
+      {
+        "city_fr": "Trooz",
+        "city_nl": "Trooz",
+        "postal_code": "4870",
+        "latitude": 50.6167,
+        "longitude": 5.7167
+      },
+      {
+        "city_fr": "Verlaine",
+        "city_nl": "Verlaine",
+        "postal_code": "4537",
+        "latitude": 50.6,
+        "longitude": 5.3833
+      },
+      {
+        "city_fr": "Verviers",
+        "city_nl": "Verviers",
+        "postal_code": "4800",
+        "latitude": 50.5833,
+        "longitude": 5.8667
+      },
+      {
+        "city_fr": "Villers-le-Bouillet",
+        "city_nl": "Villers-le-Bouillet",
+        "postal_code": "4530",
+        "latitude": 50.6,
+        "longitude": 5.4167
+      },
+      {
+        "city_fr": "Visé",
+        "city_nl": "Wezet",
+        "postal_code": "4600",
+        "latitude": 50.7333,
+        "longitude": 5.7333
+      },
+      {
+        "city_fr": "Waimes",
+        "city_nl": "Waimes",
+        "postal_code": "4950",
+        "latitude": 50.35,
+        "longitude": 6.0333
+      },
+      {
+        "city_fr": "Wanze",
+        "city_nl": "Wanze",
+        "postal_code": "4520",
+        "latitude": 50.5833,
+        "longitude": 5.2833
+      },
+      {
+        "city_fr": "Waremme",
+        "city_nl": "Borgworm",
+        "postal_code": "4300",
+        "latitude": 50.6833,
+        "longitude": 5.1667
+      },
+      {
+        "city_fr": "Wasseiges",
+        "city_nl": "Wasseiges",
+        "postal_code": "4219",
+        "latitude": 50.55,
+        "longitude": 5.4
+      },
+      {
+        "city_fr": "Welkenraedt",
+        "city_nl": "Welkenraedt",
+        "postal_code": "4840",
+        "latitude": 50.6833,
+        "longitude": 5.9667
+      }
+    ]
+  },
+  {
+    "province": "Luxembourg",
+    "cities": [
+      {
+        "city_fr": "Arlon",
+        "city_nl": "Aarlen",
+        "postal_code": "6700",
+        "latitude": 49.6833,
+        "longitude": 6.0333
+      },
+      {
+        "city_fr": "Attert",
+        "city_nl": "Attert",
+        "postal_code": "6717",
+        "latitude": 49.6667,
+        "longitude": 5.95
+      },
+      {
+        "city_fr": "Aubange",
+        "city_nl": "Aubange",
+        "postal_code": "6790",
+        "latitude": 49.5667,
+        "longitude": 5.9333
+      },
+      {
+        "city_fr": "Bastogne",
+        "city_nl": "Bastenaken",
+        "postal_code": "6600",
+        "latitude": 50.0,
+        "longitude": 5.7167
+      },
+      {
+        "city_fr": "Bertogne",
+        "city_nl": "Bertogne",
+        "postal_code": "6687",
+        "latitude": 49.9,
+        "longitude": 5.75
+      },
+      {
+        "city_fr": "Bertrix",
+        "city_nl": "Bertrix",
+        "postal_code": "6880",
+        "latitude": 49.9,
+        "longitude": 5.1833
+      },
+      {
+        "city_fr": "Bouillon",
+        "city_nl": "Bouillon",
+        "postal_code": "6830",
+        "latitude": 49.7833,
+        "longitude": 5.0833
+      },
+      {
+        "city_fr": "Chiny",
+        "city_nl": "Chiny",
+        "postal_code": "6810",
+        "latitude": 49.7333,
+        "longitude": 5.35
+      },
+      {
+        "city_fr": "Daverdisse",
+        "city_nl": "Daverdisse",
+        "postal_code": "6929",
+        "latitude": 49.9167,
+        "longitude": 5.0833
+      },
+      {
+        "city_fr": "Durbuy",
+        "city_nl": "Durbuy",
+        "postal_code": "6940",
+        "latitude": 50.35,
+        "longitude": 5.4667
+      },
+      {
+        "city_fr": "Erezée",
+        "city_nl": "Erezée",
+        "postal_code": "6997",
+        "latitude": 50.2167,
+        "longitude": 5.5167
+      },
+      {
+        "city_fr": "Etalle",
+        "city_nl": "Etalle",
+        "postal_code": "6740",
+        "latitude": 49.75,
+        "longitude": 5.3667
+      },
+      {
+        "city_fr": "Fauvillers",
+        "city_nl": "Fauvillers",
+        "postal_code": "6637",
+        "latitude": 49.8,
+        "longitude": 5.6333
+      },
+      {
+        "city_fr": "Florenville",
+        "city_nl": "Florenville",
+        "postal_code": "6820",
+        "latitude": 49.75,
+        "longitude": 5.3667
+      },
+      {
+        "city_fr": "Gouvy",
+        "city_nl": "Gouvy",
+        "postal_code": "6670",
+        "latitude": 50.0,
+        "longitude": 5.5167
+      },
+      {
+        "city_fr": "Habay",
+        "city_nl": "Habay",
+        "postal_code": "6720",
+        "latitude": 49.7833,
+        "longitude": 5.55
+      },
+      {
+        "city_fr": "Herbeumont",
+        "city_nl": "Herbeumont",
+        "postal_code": "6887",
+        "latitude": 49.8333,
+        "longitude": 5.0667
+      },
+      {
+        "city_fr": "Houffalize",
+        "city_nl": "Houffalize",
+        "postal_code": "6660",
+        "latitude": 50.05,
+        "longitude": 5.7333
+      },
+      {
+        "city_fr": "La Roche-en-Ardenne",
+        "city_nl": "La Roche-en-Ardenne",
+        "postal_code": "6980",
+        "latitude": 50.2333,
+        "longitude": 5.3667
+      },
+      {
+        "city_fr": "Léglise",
+        "city_nl": "Léglise",
+        "postal_code": "6860",
+        "latitude": 49.7667,
+        "longitude": 5.3667
+      },
+      {
+        "city_fr": "Libin",
+        "city_nl": "Libin",
+        "postal_code": "6890",
+        "latitude": 49.8833,
+        "longitude": 5.4167
+      },
+      {
+        "city_fr": "Libramont-Chevigny",
+        "city_nl": "Libramont-Chevigny",
+        "postal_code": "6800",
+        "latitude": 49.8667,
+        "longitude": 5.4167
+      },
+      {
+        "city_fr": "Manhay",
+        "city_nl": "Manhay",
+        "postal_code": "6960",
+        "latitude": 50.1833,
+        "longitude": 5.5
+      },
+      {
+        "city_fr": "Marche-en-Famenne",
+        "city_nl": "Marche-en-Famenne",
+        "postal_code": "6900",
+        "latitude": 50.2333,
+        "longitude": 5.35
+      },
+      {
+        "city_fr": "Martelange",
+        "city_nl": "Martelange",
+        "postal_code": "6630",
+        "latitude": 49.8833,
+        "longitude": 5.9833
+      },
+      {
+        "city_fr": "Meix-devant-Virton",
+        "city_nl": "Meix-devant-Virton",
+        "postal_code": "6769",
+        "latitude": 49.6167,
+        "longitude": 5.6667
+      },
+      {
+        "city_fr": "Messancy",
+        "city_nl": "Messancy",
+        "postal_code": "6780",
+        "latitude": 49.5667,
+        "longitude": 5.9667
+      },
+      {
+        "city_fr": "Musson",
+        "city_nl": "Musson",
+        "postal_code": "6750",
+        "latitude": 49.6,
+        "longitude": 5.7
+      },
+      {
+        "city_fr": "Nassogne",
+        "city_nl": "Nassogne",
+        "postal_code": "6950",
+        "latitude": 50.0167,
+        "longitude": 5.3833
+      },
+      {
+        "city_fr": "Neufchâteau",
+        "city_nl": "Neufchâteau",
+        "postal_code": "6840",
+        "latitude": 49.8833,
+        "longitude": 5.4167
+      },
+      {
+        "city_fr": "Paliseul",
+        "city_nl": "Paliseul",
+        "postal_code": "6850",
+        "latitude": 49.8,
+        "longitude": 5.5
+      },
+      {
+        "city_fr": "Rendeux",
+        "city_nl": "Rendeux",
+        "postal_code": "6987",
+        "latitude": 50.2333,
+        "longitude": 5.5667
+      },
+      {
+        "city_fr": "Rouvroy",
+        "city_nl": "Rouvroy",
+        "postal_code": "6767",
+        "latitude": 49.6667,
+        "longitude": 5.95
+      },
+      {
+        "city_fr": "Saint-Hubert",
+        "city_nl": "Saint-Hubert",
+        "postal_code": "6870",
+        "latitude": 49.8,
+        "longitude": 5.3833
+      },
+      {
+        "city_fr": "Saint-Léger",
+        "city_nl": "Saint-Léger",
+        "postal_code": "6747",
+        "latitude": 49.7167,
+        "longitude": 5.9667
+      },
+      {
+        "city_fr": "Sainte-Ode",
+        "city_nl": "Sainte-Ode",
+        "postal_code": "6680",
+        "latitude": 49.8833,
+        "longitude": 5.6833
+      },
+      {
+        "city_fr": "Tellin",
+        "city_nl": "Tellin",
+        "postal_code": "6927",
+        "latitude": 49.85,
+        "longitude": 5.2167
+      },
+      {
+        "city_fr": "Tenneville",
+        "city_nl": "Tenneville",
+        "postal_code": "6970",
+        "latitude": 50.0167,
+        "longitude": 5.55
+      },
+      {
+        "city_fr": "Tintigny",
+        "city_nl": "Tintigny",
+        "postal_code": "6730",
+        "latitude": 49.75,
+        "longitude": 5.7333
+      },
+      {
+        "city_fr": "Vaux-sur-Sûre",
+        "city_nl": "Vaux-sur-Sûre",
+        "postal_code": "6640",
+        "latitude": 49.7833,
+        "longitude": 5.9833
+      },
+      {
+        "city_fr": "Vielsalm",
+        "city_nl": "Vielsalm",
+        "postal_code": "6690",
+        "latitude": 50.1833,
+        "longitude": 5.9667
+      },
+      {
+        "city_fr": "Virton",
+        "city_nl": "Virton",
+        "postal_code": "6760",
+        "latitude": 49.5667,
+        "longitude": 5.9667
+      },
+      {
+        "city_fr": "Wellin",
+        "city_nl": "Wellin",
+        "postal_code": "6920",
+        "latitude": 49.8333,
+        "longitude": 5.1833
+      }
+    ]
+  }
+]
